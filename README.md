@@ -73,5 +73,4 @@
 </body>
 <body>
 HERTIER FOOTBALL ACADEMY
-</body> <img src="/html-basics/IMG_5011.JPEG" alt="height300"width300>
 
